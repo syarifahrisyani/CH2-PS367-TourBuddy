@@ -1,7 +1,7 @@
-## Bangki Capstone Project 
+## Bangkit Capstone Project 
  TourBuddy Apps
 
-![Slide 16_9 - 2](https://user-images.githubusercontent.com/63504249/173284212-870aa918-2234-463e-898f-da07685d10ed.png)
+![Slide 16_9 - 2](https://storage.googleapis.com/tourbuddy/TourBuddyUi.png)
 
 ## About
 Many travelers find it difficult to discover historical and cultural sites. In a tourism industry flooded with modern destinations, historic destinations are often overlooked. Travelers tend to follow the mainstream, exploring modern familiar places and missing out on the unique experiences that can only be found in historic and cultural destinations.
