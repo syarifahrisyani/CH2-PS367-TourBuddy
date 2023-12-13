@@ -1,11 +1,15 @@
-## Bangkit-Mobile-Development
-The documentation of <b>Pet2Home</b> application in Bangkit Capstone Project 2022
+## Bangki Capstone Project 
+ TourBuddy Apps
+
 ![Slide 16_9 - 2](https://user-images.githubusercontent.com/63504249/173284212-870aa918-2234-463e-898f-da07685d10ed.png)
 
 ## About
-Pet2Home is an application intended to raise awareness of abandoned animals, especially cats and dogs, and also to help potential adopters to find their pets. Aside from adopting animals, users also can use a Pet2Lens feature that can make it easier to find out the breeds of dogs or cats they found. This project expects to help improve the welfare of abandoned animals and reduce the level of animal violence to illegal trade in animals, especially dogs and cats.
+Many travelers find it difficult to discover historical and cultural sites. In a tourism industry flooded with modern destinations, historic destinations are often overlooked. Travelers tend to follow the mainstream, exploring modern familiar places and missing out on the unique experiences that can only be found in historic and cultural destinations.
 
-This app is able to identify 5 breed of dog and 5 breed of cat and determine its quality with a Machine Learning model. And then it will insert the data into a database, which will save all the breed info which is saved into it. Currently the classifications are limited to:
+Of course, this problem is a concern for some tourism parties because this phenomenon makes many historical tourist destinations and have a lot of cultural value to be rarely visited because they are considered not too interesting or too "old". Based on this problem, what solutions can be provided?
+
+To address the issue of decreasing tourist interest in historical and cultural tourism destinations, a viable solution is to create a dedicated travel app, with a primary focus on historical buildings and ancient sites scattered across Indonesia. This innovative app will serve as an invaluable resource, offering a comprehensive insight into the historical background, cultural significance, and artistic essence of each historical site featured. Moreover, the app will not only provide users with historical context, but also highlight upcoming events that will take place at these locations, ranging from lively cultural festivals and captivating art exhibitions to mesmerizing traditional performances. By offering tourists a more enriching and insightful travel experience, these apps can bring back curiosity and appreciation for historical and cultural gems that are often overlooked, even in a world where modern destinations often take center stage.
+
 
 ## The Team
 
@@ -23,6 +27,6 @@ This app is able to identify 5 breed of dog and 5 breed of cat and determine its
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development | [Github](https://github.com/ferddev21/pet2home) |
-|  Cloud Computing  | [Github](https://github.com/dindafathihah/cc-pet2home)  |
-|   Machine Learning  | [Github](https://github.com/Adamaristama/bangkitpet2home)  |
+| Mobile Development | [Github](https://github.com/syarifahrisyani/TourBuddyApp.git) |
+|  Cloud Computing  | [Github](https://github.com/Exzzor/TourBudAPI.git)  |
+|   Machine Learning  | [Github](https://github.com/Kamiladine/TourBuddy-Machine-Learning.git)  |
