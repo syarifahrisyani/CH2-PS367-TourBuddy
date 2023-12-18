@@ -10,6 +10,12 @@ Of course, this problem is a concern for some tourism parties because this pheno
 
 To address the issue of decreasing tourist interest in historical and cultural tourism destinations, a viable solution is to create a dedicated travel app, with a primary focus on historical buildings and ancient sites scattered across Indonesia. This innovative app will serve as an invaluable resource, offering a comprehensive insight into the historical background, cultural significance, and artistic essence of each historical site featured. Moreover, the app will not only provide users with historical context, but also highlight upcoming events that will take place at these locations, ranging from lively cultural festivals and captivating art exhibitions to mesmerizing traditional performances. By offering tourists a more enriching and insightful travel experience, these apps can bring back curiosity and appreciation for historical and cultural gems that are often overlooked, even in a world where modern destinations often take center stage.
 
+## App Demo
+![Alt Text]()
+
+## Project Documents:
+- Project Brief : []()
+- Final presentation : []()
 
 ## The Team
 
